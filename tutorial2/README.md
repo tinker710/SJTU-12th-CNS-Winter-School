@@ -17,6 +17,8 @@
 # install basic packages for scientific computing
 conda install -y numpy matplotlib plotly
 # install neuron package for python
-pip3 install neuron
+pip3 install neuron  #(linux/MacOS)
 ```
+> for windows, the only recommanded way to install `neuron` is to use installer.
+[main page for neuron](https://nrn.readthedocs.io/en/latest/index.html)
 
